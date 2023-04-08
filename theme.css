@@ -1,0 +1,61 @@
+/* Use Chat Bubbles By Shiz */
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Chat_Bubbles/No.css);
+
+@import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+@import url('https://raw.githack.com/grand3680/dicordTheme/main/core.css');
+:root {
+  --primary1-colour: rgb(151, 68, 68);
+  --primary2-colour: rgba(233, 12, 12, 0.5);
+  --primary3-colour: rgba(167, 36, 36, 0.6);
+
+  --secondary1-colour: rgba(136, 28, 28, 0.3);
+  --secondary2-colour: rgba(58, 25, 25, 0.5);
+  --secondary3-colour: rgba(49, 11, 11, 0.5);
+
+  --transparency-1: linear-gradient(to right, rgba(75, 57, 57, 0.5), rgba(211, 37, 37, 0.5));
+  --transparency-2: linear-gradient(to right, rgba(211, 37, 37, 0.5), rgba(109,36,66, 0.5));
+  --transparency-3: linear-gradient(to right, rgba(109,36,66, 0.5), rgba(54,49,129, 0.5));
+  --transparency-4: linear-gradient(to right, rgba(240, 197, 197, 0.5), rgba(209, 132, 132, 0.5));
+  --transparency-5: linear-gradient(to right, rgba(41, 35, 35, 0.5), rgba(0,0,0,0.5));
+
+
+  --Main-Colour: rgb(235, 222, 222);
+  --Background-Colour: rgba(0,0,0,1);
+  --Secondary-Background-Colour: rgba(0,0,0,.3);
+  --Secondary-Main-Colour: rgba(212, 214, 243, 0.5);
+  --Text-Shadow-Colour: rgba(235, 215, 222, 0.35);
+  --Scroller-Colour: rgba(66,75,248,0);
+  --Notification-Colour: rgb(69, 77, 236);
+  --Chat-Input-Background: rgba(235, 96, 96, 0);
+  --Chat-Input-Colour: var(--Main-Colour) ;
+  --Unread-Message-1: var(--Main-Colour) ;
+  --Unread-Message-2: var(--Background-Colour) ;
+  /* --Chat-Background: url(https://nfld99.com/Bkg/cJb5Mnr.png); */
+  /* --Chat-Background: url(https://images8.alphacoders.com/126/1260379.jpg);  */
+
+  --Chat-Background: url(https://nfld99.com/Bkg/cJb5Mnr.png);
+
+  /* --Settings-Background: url(https://nfld99.com/Bkg/cJb5Mnr.png); */
+
+  --Callout-Background: url(https://nfld99.com/Bkg/cJb5Mnr.png);
+  --Title-Background: var(--Background-Colour);
+  --Theme-Variant: "MY LITTLE DISCORD))";
+
+  --Chat-Font-Used: "Whitney";
+  --Chat-Font-Size: 15px;
+  --Unread-Message-Speed: 0.52s;
+  --Popout-Main-Colour: var(--Main-Colour);
+  --Popout-Background: var(--Chat-Background);
+  --Popout-Text-Shadow-Colour:var(--Text-Shadow-Colour);
+  --Emote-Popout-Background: var(--Secondary-Background-Colour);
+  --load1: "Thank You!";
+  --load2: "Please Enjoy!";
+  --load3: "➢NFLD99";
+  --File-Updated-2020-5-25: ;
+  --Settings-Dock-Colour: var(--Main-Colour);
+  --Timestamp-Colour: var(--Secondary-Main-Colour);
+  --Guild-Columns: 1;
+  --ServerFolders-Guild-Columns: var(--Guild-Columns);
+  --Chat-Avatar-Border-Radius: 50%;
+  --Background-Darkness: 0.1;
+}
