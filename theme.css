@@ -1,32 +1,18 @@
-/* Source Code */
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Master_Code.css);
-/* Animations */
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Animations/No.css);
-/* Fonts https://nfld99.github.io/Better-Discord/Font_List.txt */
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/No.css);
-/* Settings Dock */
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Popup/Yes.css);
-/* Channels */
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Channels/No.css);
-/* Chat Title Bar */
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Chat_Title_Bar/No.css);
-/* Invites */ 
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Invites/No.css);
-/* Member List */ 
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Members/No.css);
-/* Windows Bar */ 
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Windows_Bar/No.css);
-/* Offline Members */ 
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Offline/No.css);
-/* User Popout Footer */ 
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Popout_Footer/Yes.css);
-/* Transparency Patch */ 
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Transparency/No.css);
-/* Use Chat Bubbles By Shiz */
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Chat_Bubbles/No.css);
-
 @import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
-/* @import url('https://raw.githack.com/grand3680/dicordTheme/main/core.css'); */
+
 :root {
   --primary1-colour: rgb(151, 68, 68);
   --primary2-colour: rgba(233, 12, 12, 0.5);
@@ -54,13 +40,8 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  /* --Chat-Background: url(https://nfld99.com/Bkg/cJb5Mnr.png); */
-  /* --Chat-Background: url(https://images8.alphacoders.com/126/1260379.jpg);  */
-
+  
   --Chat-Background: url(https://nfld99.com/Bkg/cJb5Mnr.png);
-
-  /* --Settings-Background: url(https://nfld99.com/Bkg/cJb5Mnr.png); */
-
   --Callout-Background: url(https://nfld99.com/Bkg/cJb5Mnr.png);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: "MY LITTLE DISCORD))";
